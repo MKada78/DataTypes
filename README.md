@@ -4,10 +4,7 @@ This script will also the variables and recommend wether or not to set them as c
 The purpose behind this script is to help you to define the right data types and variable length when creating your database. For example, in MySQL, you define these data types and lengths in the 'schema' file.
 
 ## Files in my repository:
-- schema_join.sql = the schema file for my DB structure
-- data_join.sql = the data file for my DB data loading and join testing
-- customers.csv = table customers containing a few rows
-- orders.csv = table orders containing a few rows
+- Python_Max_Length_V20.py : the script of the function.
 
 ### Prerequisites
 - Python (I use version 3.7.2)
