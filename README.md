@@ -13,7 +13,7 @@ The purpose behind this script is to help you to define the right data types and
 ### To run the MaxLength function :
 1- Copy and paste the function in your code editor.
 2- Call the function with one argument which is the name of the dataframe you wish to analyse (exp : MaxLength(my_df)
-3- You're done ! A table will be displayed providing you with the information mentioned in this Readme file.
+3- You're done ! A table will be displayed providing you with the information mentioned in the first section of this Readme file.
 
 ## Contributing
 Do not hesitate to suggest improvements or report any bug !
