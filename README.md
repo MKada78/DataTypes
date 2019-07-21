@@ -11,9 +11,9 @@ The purpose behind this script is to help you to define the right data types and
 - An IDE for Python (I use Jupyter Notebook but you can use any other IDE or code editor).
 
 ### To run the MaxLength function :
-1- Copy and paste the function in your code editor. <\br>
-2- Call the function with one argument which is the name of the dataframe you wish to analyse (exp : MaxLength(my_df) <\br>
-3- You're done ! A table will be displayed providing you with the information mentioned in the first section of this Readme file. <\br>
+1- Copy and paste the function in your code editor. <br/>
+2- Call the function with one argument which is the name of the dataframe you wish to analyse (exp : MaxLength(my_df) <br/>
+3- You're done ! A table will be displayed providing you with the information mentioned in the first section of this Readme file.
 
 ## Contributing
 Do not hesitate to suggest improvements or report any bug !
