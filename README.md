@@ -1,5 +1,5 @@
 # DataTypes
-Python script to find the length of all the variables contained in a dataframe.
+Python script (function 'MaxLength') to find the length of all the variables contained in a dataframe.
 This script will also the variables and recommend wether or not to set them as categorical variables (pandas type 'category').  
 The purpose behind this script is to help you to define the right data types and variable length when creating your database. For example, in MySQL, you define these data types and lengths in the 'schema' file.
 
